@@ -1,0 +1,51 @@
+
+name,active_ingredient,excipients,uses,safety_alerts
+Paracetamol,Acetaminophen,"Corn starch, Povidone",Fever and Headache,Liver toxicity risk if taken with alcohol.
+Ibuprofen,Ibuprofen,"Lactose, Magnesium stearate",Inflammation and Pain,Risk of stomach ulcers or bleeding.
+Amoxicillin,Amoxicillin,"Silica, Magnesium stearate",Bacterial infection,High Allergy Risk for Penicillin sensitive users.
+Cetirizine,Cetirizine HCl,"Lactose, Starch",Allergies,May cause mild drowsiness.
+Metformin,Metformin HCl,"Povidone, Hypromellose",Type 2 Diabetes,Common GI upset; monitor kidney health.
+Atorvastatin,Atorvastatin,"Calcium Carbonate, Lactose",High Cholesterol,Avoid during pregnancy; report muscle pain.
+Amlodipine,Amlodipine,Microcrystalline Cellulose,High Blood Pressure,May cause ankle swelling or edema.
+Omeprazole,Omeprazole,"Mannitol, Sodium Lauryl Sulfate",Acid Reflux/GERD,Long-term use may cause B12 deficiency.
+Losartan,Losartan Potassium,Microcrystalline Cellulose,Hypertension,Do not use if pregnant.
+Albuterol,Salbutamol,"Ethanol, Oleic acid",Asthma/COPD,May cause tremors or fast heart rate.
+Azithromycin,Azithromycin,Dibasic Calcium Phosphate,Lung/Skin Infection,Can cause upset stomach; finish full course.
+Gabapentin,Gabapentin,"Talc, Corn starch",Nerve Pain and Seizures,May cause dizziness or fatigue.
+Hydrochlorothiazide,HCTZ,Lactose Monohydrate,Fluid retention,Increases sun sensitivity.
+Sertraline,Sertraline,Sodium Starch Glycolate,Depression/Anxiety,Avoid abrupt discontinuation.
+Montelukast,Montelukast,Croscarmellose Sodium,Asthma/Allergies,Monitor for mood or behavior changes.
+Pantoprazole,Pantoprazole,"Sodium Carbonate, Mannitol",Heartburn/Ulcers,May interact with blood thinners.
+Furosemide,Furosemide,"Lactose, Magnesium stearate",Edema/Swelling,Monitor potassium levels closely.
+Fluticasone,Fluticasone,Benzalkonium chloride,Nasal Allergies,Potential for nosebleeds.
+Levothyroxine,Thyroxine,"Synthetic T4, Cellulose",Hypothyroidism,Take on an empty stomach.
+Lisinopril,Lisinopril,"Mannitol, Corn starch",Heart Failure/BP,Can cause a persistent dry cough.
+Prednisone,Prednisone,"Lactose, Calcium Stearate",Inflammation/Immune,Long-term use leads to bone density loss.
+Clopidogrel,Clopidogrel,Hydrogenated Castor Oil,Blood Thinner,Increased bruising and bleeding risk.
+Rosuvastatin,Rosuvastatin,Microcrystalline Cellulose,Cholesterol,Similar muscle risk to Atorvastatin.
+Duloxetine,Duloxetine,"Sucrose, Hypromellose",Depression/Nerve Pain,Monitor blood pressure regularly.
+Famotidine,Famotidine,"Starch, Talc",Acid Reflux,Generally well-tolerated.
+Meloxicam,Meloxicam,"Sodium Citrate, Lactose",Arthritis Pain,NSAID; risk of stomach issues.
+Warfarin,Warfarin,"Lactose, Dye",Blood Clot Prevention,Strict diet and blood monitoring needed.
+Escitalopram,Escitalopram,"Talc, Croscarmellose",Anxiety/Depression,Risk of Serotonin Syndrome.
+Ciprofloxacin,Ciprofloxacin,Microcrystalline Cellulose,UTI/Pneumonia,Black Box Warning for Tendon rupture.
+Metoprolol,Metoprolol,Polyethylene Glycol,Heart Rhythm/BP,Do not stop taking suddenly.
+Spironolactone,Spironolactone,Calcium Sulfate,Heart Failure/Acne,Monitor for high potassium levels.
+Naproxen,Naproxen,"Povidone, Magnesium Stearate",Severe Pain/Fever,Similar to Ibuprofen; longer acting.
+Doxycycline,Doxycycline,"Gelatin, Iron Oxide",Acne/Infections,Causes extreme sun sensitivity.
+Lorazepam,Lorazepam,"Lactose, Polacrilin Potassium",Anxiety/Insomnia,Potential for habit-forming or addiction.
+Venlafaxine,Venlafaxine,"Cellulose, Ethylcellulose",Depression,May increase heart rate.
+Allopurinol,Allopurinol,"Lactose, Povidone",Gout,Drink plenty of water.
+Bupropion,Bupropion,"Carnauba Wax, Hypromellose",Smoking Cessation,Avoid if history of seizures.
+Tamsulosin,Tamsulosin,Methacrylic Acid Copolymer,Prostate issues,May cause sudden drop in blood pressure.
+Zolpidem,Zolpidem,"Lactose, Hypromellose",Insomnia,Risk of complex sleep behaviors like sleepwalking.
+Diclofenac,Diclofenac,Sodium Bisulfite,Joint Pain,Allergy risk for sulfite-sensitive individuals.
+Quetiapine,Quetiapine,Dibasic Calcium Phosphate,Schizophrenia/Bipolar,May cause significant weight gain.
+Tramadol,Tramadol,Sodium Starch Glycolate,Moderate Pain,Opioid-like; potential for abuse.
+Folic Acid,Vitamin B9,"Cellulose, Stearic Acid",Anemia/Pregnancy,Generally very safe.
+Carvedilol,Carvedilol,"Sucrose, Lactose",Heart Failure,Take with food to reduce BP drop.
+Fluoxetine,Fluoxetine,"Corn starch, Gelatin",OCD/Depression,Long half-life; stays in system for weeks.
+Alprazolam,Alprazolam,"Sodium Benzoate, Lactose",Panic Disorder,High risk of dependency.
+Meclizine,Meclizine,"Silica, Lactose",Vertigo/Motion Sickness,Anticholinergic; causes dry mouth.
+Glipizide,Glipizide,Microcrystalline Cellulose,Diabetes,Risk of low blood sugar (Hypoglycemia).
+Potassium Chloride,Potassium,Magnesium Stearate,Low Potassium,Take with full glass of water.
