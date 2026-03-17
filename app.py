@@ -70,13 +70,14 @@ vectordb = load_vectordb()
 # =================================
 
 def load_llm():
-    os.getenv("GROQ_API_KEY")
+    api_key=os.getenv("GROQ_API_KEY")
 
     
     return ChatGroq(
         model="llama-3.1-8b-instant",
         temperature=0.2,
-        api_key="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"
+        api_key=api_key
+        
     )
     
 
