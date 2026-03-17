@@ -3,6 +3,7 @@ import streamlit as st
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_groq import ChatGroq
+from dotenv import load_dotenv
 
 # =================================
 # PAGE CONFIG
@@ -68,7 +69,7 @@ vectordb = load_vectordb()
 # =================================
 # LOAD LLM
 # =================================
-
+load_dotenv()
 def load_llm():
     api_key=os.getenv("GROQ_API_KEY")
 
