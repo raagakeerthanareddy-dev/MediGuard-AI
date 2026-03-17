@@ -7,4 +7,5 @@ sentence-transformers
  langchain_huggingface
  langchain_core
  langchain_groq
+altair==4.2.2
 
